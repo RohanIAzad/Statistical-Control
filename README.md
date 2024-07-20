@@ -1,4 +1,4 @@
-**Description of teh problem**
+**Description of the problem**
 
 Previously, students accessed the materials for a particular coyurse through a third-party learning platform, which incurred costs for the company every time a student logged in. 
 To mitigate these costs, the company developed an inhouse learning paltform called ***ODYSSEY*** where students can now access their materials directly.
